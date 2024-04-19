@@ -28,6 +28,6 @@ artifacts:
   files:
     - '**/*'
   base-directory: ../simple-python-app
-  # name: simple-python-app/BuildArtif/tMwyOiu
-  # discard-paths: no
+  name: simple-python-app-artifact
+  discard-paths: no
 
